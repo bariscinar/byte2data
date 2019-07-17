@@ -1,0 +1,1294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6fb69325-05f1-4ec7-aa55-ec8d48fd315d" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/stuff$Test__1_.coverage" NAME="Test (1) Coverage Results" MODIFIED="1553848986100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>net.byte2data.consept.concurrency.staticmethod.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/stuff$App.coverage" NAME="App Coverage Results" MODIFIED="1543153331659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>net.byte2data.consept.jms.activemq.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="861">
+              <caret line="192" selection-start-line="192" selection-end-line="192" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/linxa/pojo/Employe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="44" column="47" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/linxa/pojo/Address.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/linxa/pojo/OtherAddress.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>1000626388</find>
+      <find>1108548744</find>
+      <find>200831310</find>
+      <find>thread(new HelloWorldProducer(), false);</find>
+      <find>app.</find>
+      <find>UNIQUE_STUB</find>
+      <find>setper</find>
+      <find>uri</find>
+      <find>addcon</find>
+      <find>networkc</find>
+      <find>finalTransientString</find>
+      <find>staticStringArray</find>
+      <find>sysDate</find>
+      <find>hibernate.</find>
+      <find>close()</find>
+      <find>auto</find>
+      <find>hibernate_sequence</find>
+      <find>current_session_context_class</find>
+      <find>autoregister_listeners</find>
+      <find>hiber</find>
+      <find>hibernate.validator.autoregister_listeners</find>
+      <find>lastTimeCorrected</find>
+      <find>cacheLocks</find>
+      <find>dashboardWidgetcache</find>
+      <find>dashboardWidgetcache.</find>
+      <find>PrefixTreeNode</find>
+      <find>employees</find>
+      <find>PrefixTree</find>
+      <find>readClassDescriptor</find>
+      <find>ObjectInputStream</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>net.byte2data.</replace>
+      <replace>app.</replace>
+      <replace>app. new</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/net</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/serialization/usageoftransient/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/serialization/usageoftransient/SampleUsageOfTransient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/concurrency/staticmethod/StaticMethod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/concurrency/staticmethod/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/concurrency/staticmethod/StaticTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/concurrency/staticmethod/README" />
+        <option value="$PROJECT_DIR$/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/utilities/NullCheck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/EmployeeManagement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/LoadingEmployee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/EmployeeMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/EmployeeLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/EmployeeProducer.java" />
+        <option value="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.4.Final/hibernate-core-5.2.4.Final.jar!/org/hibernate/internal/SessionImpl.class" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/loader/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/EmployeeConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/EmployeeManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/loader/EmployeeManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/EmployeeFetcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/EmployeeMapResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/EmployeeGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/EmployeeFeeder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/simpleloadtest/EmployeeManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/DBLayer.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/pojo/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Employee.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/simpleloadtest/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/utilities/Baris.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/utilities/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/utilities/Murat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/concurrency/blockingqueue/BlockingQueueDefinition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/consept/designpatterns/creational/singleton/inner/test/SingletonTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/linxa/TrafficAndProfitabilityMgr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/linxa/connect/server/SF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/linxa/connect/server/monitor/TrafficAndProfitabilityMgr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/linxa/PrefixTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/linxa/connect/server/routing/tree/PrefixTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/linxa/pojo/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/linxa/ObjectInputStreamProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/linxa/CustomObjectInputStreamProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/linxa/pojo/Address.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/linxa/pojo/OtherAddress.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/linxa/pojo/Employe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/byte2data/linxa/LinxaTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="stuff Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="stuff Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="stuff Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="stuff Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="compiler" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="stuff Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="deploy" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="stuff Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="install" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="stuff Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="site" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="1164" />
+    <option name="y" value="27" />
+    <option name="width" value="1396" />
+    <option name="height" value="1413" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="stuff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stuff" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stuff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stuff" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stuff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stuff" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stuff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stuff" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stuff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stuff" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="stuff" type="58d84e3e:PackageViewProjectNode" />
+              <item name="stuff" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="stuff" type="58d84e3e:PackageViewProjectNode" />
+              <item name="stuff" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="stuff" type="58d84e3e:PackageViewProjectNode" />
+              <item name="stuff" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="telenity" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="stuff" type="58d84e3e:PackageViewProjectNode" />
+              <item name="stuff" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="telenity" type="1f31426a:PackageElementNode" />
+              <item name="rsc" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="stuff" type="58d84e3e:PackageViewProjectNode" />
+              <item name="stuff" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="telenity" type="1f31426a:PackageElementNode" />
+              <item name="rsc" type="1f31426a:PackageElementNode" />
+              <item name="tools" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="stuff" type="58d84e3e:PackageViewProjectNode" />
+              <item name="stuff" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="telenity" type="1f31426a:PackageElementNode" />
+              <item name="rsc" type="1f31426a:PackageElementNode" />
+              <item name="tools" type="1f31426a:PackageElementNode" />
+              <item name="loginspector" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="stuff" type="58d84e3e:PackageViewProjectNode" />
+              <item name="stuff" type="616d4139:PackageViewModuleNode" />
+              <item name="net" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="stuff" type="58d84e3e:PackageViewProjectNode" />
+              <item name="stuff" type="616d4139:PackageViewModuleNode" />
+              <item name="net" type="1f31426a:PackageElementNode" />
+              <item name="byte2data" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547531320163" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.24232937" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="net" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.byte2data.consept.orm.employee" />
+      <recent name="net.byte2data.consept.designpatterns.creational.singleton.lazily.test" />
+      <recent name="net.byte2data.consept.designpatterns.creational.singleton.lazily.single" />
+      <recent name="net.byte2data.consept.designpatterns.structural.templatemethod.coffee" />
+      <recent name="net.byte2data.consept.designpatterns.structural.template.coffee" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee" />
+      <recent name="$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/net/byte2data/consept/designpatterns/creational/singleton/doublechecked" />
+      <recent name="$PROJECT_DIR$/src/main/java/net/byte2data/consept/designpatterns/creational/singleton" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test (2)">
+    <configuration default="true" type="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlockingQueueDefinition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.byte2data.consept.concurrency.blockingqueue.BlockingQueueDefinition" />
+      <module name="stuff" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.byte2data.consept.concurrency.blockingqueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
+    </configuration>
+    <configuration name="LinxaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.byte2data.linxa.LinxaTest" />
+      <module name="stuff" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.linxa.connect.server.routing.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="SingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.byte2data.consept.designpatterns.creational.singleton.inner.test.SingletonTest" />
+      <module name="stuff" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.byte2data.consept.designpatterns.creational.singleton.inner.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.byte2data.consept.orm.utilities.Test" />
+      <module name="stuff" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.byte2data.consept.orm.utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="stuff" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.BlockingQueueDefinition" />
+      <item itemvalue="Application.SingletonTest" />
+      <item itemvalue="Application.LinxaTest" />
+      <item itemvalue="Application.Test (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.LinxaTest" />
+        <item itemvalue="Application.SingletonTest" />
+        <item itemvalue="Application.BlockingQueueDefinition" />
+        <item itemvalue="Application.Test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fb69325-05f1-4ec7-aa55-ec8d48fd315d" name="Default" comment="" />
+      <created>1538487914729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538487914729</updated>
+      <workItem from="1538487921115" duration="16270000" />
+      <workItem from="1538653729510" duration="33694000" />
+      <workItem from="1539021649143" duration="211000" />
+      <workItem from="1539071026853" duration="11989000" />
+      <workItem from="1539268372017" duration="1595000" />
+      <workItem from="1539768465127" duration="7562000" />
+      <workItem from="1539866143919" duration="1402000" />
+      <workItem from="1540067199137" duration="9857000" />
+      <workItem from="1540480175340" duration="4715000" />
+      <workItem from="1540550172022" duration="2447000" />
+      <workItem from="1541347984028" duration="1553000" />
+      <workItem from="1541487020461" duration="1567000" />
+      <workItem from="1541489424077" duration="33536000" />
+      <workItem from="1541874473591" duration="5172000" />
+      <workItem from="1541938670821" duration="8738000" />
+      <workItem from="1542148320868" duration="33000" />
+      <workItem from="1542148397794" duration="2579000" />
+      <workItem from="1542176184266" duration="13187000" />
+      <workItem from="1542459954203" duration="37330000" />
+      <workItem from="1542710194579" duration="9120000" />
+      <workItem from="1542790082917" duration="32845000" />
+      <workItem from="1543150506231" duration="18760000" />
+      <workItem from="1543232922582" duration="5411000" />
+      <workItem from="1543279582745" duration="9499000" />
+      <workItem from="1543409123347" duration="15142000" />
+      <workItem from="1543487060042" duration="11074000" />
+      <workItem from="1543567765742" duration="2450000" />
+      <workItem from="1544165854030" duration="637000" />
+      <workItem from="1544221204108" duration="65000" />
+      <workItem from="1544446363107" duration="17652000" />
+      <workItem from="1544603703849" duration="3834000" />
+      <workItem from="1544668863487" duration="8211000" />
+      <workItem from="1544710640860" duration="3562000" />
+      <workItem from="1544785349690" duration="513000" />
+      <workItem from="1544825083428" duration="599000" />
+      <workItem from="1545064019302" duration="2164000" />
+      <workItem from="1545079916090" duration="374000" />
+      <workItem from="1545082278055" duration="235000" />
+      <workItem from="1545302062454" duration="2865000" />
+      <workItem from="1545504148372" duration="2444000" />
+      <workItem from="1545742989125" duration="8199000" />
+      <workItem from="1546267676751" duration="10000" />
+      <workItem from="1546428206532" duration="8609000" />
+      <workItem from="1547538499516" duration="1460000" />
+      <workItem from="1547993681494" duration="599000" />
+      <workItem from="1548074069410" duration="599000" />
+      <workItem from="1548317376572" duration="9688000" />
+      <workItem from="1548946154236" duration="4549000" />
+      <workItem from="1549450801719" duration="2927000" />
+      <workItem from="1549892216540" duration="5741000" />
+      <workItem from="1549950791609" duration="2107000" />
+      <workItem from="1549957399031" duration="16343000" />
+      <workItem from="1550040574834" duration="750000" />
+      <workItem from="1550041328990" duration="10749000" />
+      <workItem from="1550145851504" duration="602000" />
+      <workItem from="1550225629177" duration="6445000" />
+      <workItem from="1550410680274" duration="2122000" />
+      <workItem from="1550487583755" duration="4893000" />
+      <workItem from="1550645650996" duration="8556000" />
+      <workItem from="1550839857379" duration="1272000" />
+      <workItem from="1551190071427" duration="8751000" />
+      <workItem from="1551520599619" duration="1213000" />
+      <workItem from="1551791804427" duration="55000" />
+      <workItem from="1551792150869" duration="1458000" />
+      <workItem from="1551870862502" duration="230000" />
+      <workItem from="1552293990294" duration="1198000" />
+      <workItem from="1552629723285" duration="9309000" />
+      <workItem from="1552841876876" duration="2304000" />
+      <workItem from="1552844384380" duration="13618000" />
+      <workItem from="1552949562287" duration="86000" />
+      <workItem from="1552949800853" duration="3572000" />
+      <workItem from="1552982392865" duration="598000" />
+      <workItem from="1553106697592" duration="3601000" />
+      <workItem from="1553234926874" duration="19785000" />
+      <workItem from="1553602619810" duration="15872000" />
+      <workItem from="1553759665655" duration="15676000" />
+      <workItem from="1553843961847" duration="3728000" />
+      <workItem from="1553849093869" duration="27000" />
+      <workItem from="1553849205202" duration="4436000" />
+      <workItem from="1553867935332" duration="3294000" />
+      <workItem from="1553885986041" duration="3212000" />
+      <workItem from="1554039982487" duration="6571000" />
+      <workItem from="1554207641174" duration="34194000" />
+      <workItem from="1554727848729" duration="14756000" />
+      <workItem from="1555664616876" duration="1162000" />
+      <workItem from="1556286886472" duration="866000" />
+      <workItem from="1558332394946" duration="5184000" />
+      <workItem from="1561022941230" duration="98000" />
+      <workItem from="1561023437307" duration="578000" />
+      <workItem from="1561043107233" duration="129000" />
+      <workItem from="1561043857727" duration="1071000" />
+      <workItem from="1561046865162" duration="1354000" />
+      <workItem from="1561462106194" duration="14630000" />
+      <workItem from="1561540764979" duration="3568000" />
+      <workItem from="1561545163461" duration="46372000" />
+      <workItem from="1562750298615" duration="1911000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_stuff - 2019.04.09 at 14h 36m 50s.xml">
+      <configuration name="All in stuff" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="681580000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1164" y="27" width="1396" height="1413" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="JRebel" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25555557" />
+      <window_info id="Structure" order="1" weight="0.24989842" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Persistence" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Executor" />
+      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3281493" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.498996" weight="0.17962675" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.7674961" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32952183" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289269" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50100404" side_tool="true" weight="0.24087591" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32970452" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49799198" weight="0.31959563" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="SonarLint" order="15" weight="0.32970452" />
+      <window_info anchor="right" id="JRebel Setup Guide" weight="0.32994717" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="CDI" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+      <window_info anchor="right" id="Maven" order="10" weight="0.14384396" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+      <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.2003012" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20573871" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Persistence" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32848233" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2335845" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5114345" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32952183" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32952183" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3240043" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="CDI" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/designpatterns/behavioral/strategy/customer/CustomerTest.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/designpatterns/structural/decorator/mymanner/TestMyManner.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/designpatterns/creational/factory/tvtest/TestTV.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/datastructures/linkedlist/doubly/DoublyLinkedListTest.java</url>
+          <line>106</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/datastructures/linkedlist/doubly/DoublyLinkedListTest.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/datastructures/tree/SampleTree.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/datastructures/linkedlist/doubly/Test.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/concurrency/blockingqueue/BlockingQueueDefinition.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/datastructures/linkedlist/MyLinkedList.java</url>
+          <line>73</line>
+          <properties class="net.byte2data.consept.datastructures.linkedlist.MyLinkedList">
+            <option name="EMULATED" value="true" />
+          </properties>
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/stuff$LinxaTest.ic" NAME="LinxaTest Coverage Results" MODIFIED="1561652097425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.linxa.connect.server.routing.tree.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///usr/java/jdk1.8.0_72/src.zip!/java/lang/Object.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.4.Final/hibernate-core-5.2.4.Final.jar!/org/hibernate/internal/SessionImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="344" column="16" selection-start-line="344" selection-start-column="16" selection-end-line="344" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/EmployeeMapResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/EmployeeFetcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" column="73" selection-start-line="27" selection-start-column="73" selection-end-line="27" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/EmployeeFeeder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/EmployeeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Empleyee.hbm.xml" />
+    <entry file="file://$PROJECT_DIR$/target/classes/Employee.hbm.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/DBLayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="53" column="35" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/simpleloadtest/EmployeeManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+          <folding>
+            <element signature="e#567#568#0" />
+            <element signature="e#619#620#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/pojo/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="imports" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Employee.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="13" column="93" selection-start-line="13" selection-start-column="93" selection-end-line="13" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/employee/simpleloadtest/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/utilities/NullCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="e#199#200#0" expanded="false" />
+            <element signature="e#236#237#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/utilities/Baris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="e#91#92#0" expanded="false" />
+            <element signature="e#134#135#0" expanded="false" />
+            <element signature="e#156#157#0" expanded="false" />
+            <element signature="e#178#179#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/utilities/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="32" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/orm/utilities/Murat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="e#105#106#0" expanded="false" />
+            <element signature="e#148#149#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/tutorial/generics/alltogether/Matter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/java/jdk1.8.0_72/src.zip!/java/util/concurrent/BlockingQueue.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/concurrency/blockingqueue/BlockingQueueDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#Resource#0;class#BlockingQueueDefinition#0" />
+            <element signature="class#Producer#0;class#BlockingQueueDefinition#0" />
+            <element signature="class#Consumer#0;class#BlockingQueueDefinition#0" />
+            <element signature="e#3787#3788#0" expanded="true" />
+            <element signature="e#3833#3834#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/designpatterns/creational/singleton/inner/single/TheOnlyOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding>
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/designpatterns/creational/singleton/inner/test/SingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/designpatterns/creational/singleton/lazily/single/LazilyUnique.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/designpatterns/creational/singleton/eagerly/single/EagerlyUnique.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/consept/designpatterns/creational/singleton/doublechecked/single/DoubleCheckedUnique.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/linxa/connect/linxa-connect/3.0.0/linxa-connect-3.0.0.jar!/com/linxa/connect/server/Defaults.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="179" column="15" selection-start-line="179" selection-start-column="15" selection-end-line="179" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.4-jre/guava-23.4-jre-sources.jar!/com/google/common/cache/Cache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.4-jre/guava-23.4-jre-sources.jar!/com/google/common/cache/LoadingCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linxa/connect/server/routing/tre/PrefixTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2375#2376#0" expanded="true" />
+            <element signature="e#2406#2407#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/esotericsoftware/kryo-shaded/4.0.2/kryo-shaded-4.0.2.jar!/com/esotericsoftware/kryo/Kryo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="841" column="18" selection-start-line="841" selection-start-column="18" selection-end-line="841" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/linxa/connect/server/monitor/TrafficAndProfitabilityMgr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="2784" column="5" lean-forward="true" selection-start-line="2784" selection-start-column="5" selection-end-line="2784" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/linxa/connect/linxa-connect/3.0.0/linxa-connect-3.0.0.jar!/com/linxa/connect/server/CustomObjectInputStreamProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-583">
+          <folding>
+            <element signature="e#0#7675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/linxa/connect/server/SF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/linxa/CustomObjectInputStreamProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/linxa/ObjectInputStreamProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/esotericsoftware/kryo-shaded/4.0.2/kryo-shaded-4.0.2.jar!/com/esotericsoftware/kryo/io/Input.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2325">
+          <caret line="451" column="28" lean-forward="true" selection-start-line="451" selection-start-column="28" selection-end-line="451" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/linxa/connect/linxa-connect/3.0.0/linxa-connect-3.0.0.jar!/com/linxa/connect/server/routing/tree/PrefixTreeType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/linxa/connect/linxa-connect/3.0.0/linxa-connect-3.0.0.jar!/com/linxa/connect/server/routing/tree/PrefixTreeNode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/asimalp/commons/asimalp-commons/3.0.0/asimalp-commons-3.0.0.jar!/com/asimalp/commons/shared/model/Currency.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/linxa/connect/linxa-connect/3.0.0/linxa-connect-3.0.0.jar!/com/linxa/connect/server/route/ReverseNameLookup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/linxa/connect/linxa-connect/3.0.0/linxa-connect-3.0.0.jar!/com/linxa/connect/server/routing/tree/PrefixTree.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="68" column="17" lean-forward="true" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/annotation/Target.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/esotericsoftware/kryo-shaded/4.0.2/kryo-shaded-4.0.2.jar!/com/esotericsoftware/kryo/serializers/JavaSerializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="192" selection-start-line="192" selection-end-line="192" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/linxa/pojo/Employe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="44" column="47" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/linxa/pojo/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/linxa/pojo/OtherAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/byte2data/linxa/LinxaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>stuff:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>stuff</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24232937" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:3.8.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

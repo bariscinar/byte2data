@@ -1,0 +1,9 @@
+
+Jsquid:S1948	",Make "employeeId" transient or serializable.(ü²­ú8‘‘›ð¹-
+isquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(ò×ä‡8§ÃÍ¹-
+Tsquid:S1948"1Make "employeeAddress" transient or serializable.(ÿ½Àþÿÿÿÿ8ä³®ð¹-
+Gsquid:S2140")Use "java.util.Random.nextInt()" instead.(”èÃè8“åŠð¹-
+Msquid:S1066B"/Merge this if statement with the enclosing one.(¹ÞíÂ8Î”ù¸-
+V
+squid:S106b"9Replace this use of System.out or System.err by a logger.(Çƒ’8Ä ù¸-
+g"squid:ObjectFinalizeOverridenChecka"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ8Ñööø¸-

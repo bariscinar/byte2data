@@ -1,0 +1,145 @@
+
+msquid:S1192"IDefine a constant instead of duplicating this literal "IsGlobal" 3 times.(õ¼¡¼úÿÿÿÿ8Í§«ó¸-
+Isquid:S00108ù")Either remove or fill this block of code.(”ı¾8Ëí“ö¸-
+Xsquid:S2864õ"4Iterate over the "entrySet" instead of the "keySet".(ËòŒ¼ÿÿÿÿÿ8Ëí“ö¸-
+Ssquid:S1066§"/Merge this if statement with the enclosing one.(ÍŞİ›øÿÿÿÿ8Ëí“ö¸-
+|
+squid:S135·"YReduce the total number of break and continue statements in this loop to use at most one.(È“ˆ½øÿÿÿÿ8Ëí“ö¸-
+>squid:S1640‰"Convert this Map to an EnumMap.(ŸÜ¢º8Ëí“ö¸-
+rsquid:S3776ø"SRefactor this method to reduce its Cognitive Complexity from 386 to the 15 allowed.(µà¸í8Ëí“ö¸-
+bsquid:S1155õ">Use isEmpty() to check whether the collection is empty or not.(†¹×ªÿÿÿÿÿ8Ëí“ö¸-
+V
+squid:S106–"9Replace this use of System.out or System.err by a logger.(êø¨I8şñ‘ö¸-
+Qsquid:S1135ğ"2Complete the task associated to this TODO comment.(œ€œŸ8Ëí“ö¸-
+Lsquid:S1604Æ"(Make this anonymous inner class a lambda(ÖÑ®”şÿÿÿÿ8Ëí“ö¸-
+>squid:S1640ˆ"Convert this Map to an EnumMap.(£¸ç˜8°úõ¸-
+Nsquid:S1066Ÿ"/Merge this if statement with the enclosing one.(‘ÁËü8Ëí“ö¸-
+Isquid:S1172İ"*Remove this unused method parameter "cid".(˜Á”¨8Ëí“ö¸-
+\squid:S1172ü"=Remove this unused method parameter "destinationToRegionMap".(ùâÈ²8Ëí“ö¸-
+‘squid:S1319Š"rThe type of the "recipients" object should be an interface such as "Set" rather than the implementation "HashSet".(Ë‹§‹8Ëí“ö¸-
+w
+squid:S135Ê"YReduce the total number of break and continue statements in this loop to use at most one.(‰³Ñò8Ëí“ö¸-
+asquid:S00107ğ"<Method has 8 parameters, which is greater than 7 authorized.(¡Ö»¨ùÿÿÿÿ8Ëí“ö¸-
+Ysquid:S1141©"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ëí“ö¸-
+bsquid:S1155†	">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ8Ëí“ö¸-
+>squid:S1640©"Convert this Map to an EnumMap.(ËŸ8Ëí“ö¸-
+•squid:S1319Û"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(›ƒüöüÿÿÿÿ8Ëí“ö¸-
+Qsquid:S1135©"2Complete the task associated to this TODO comment.(ÿŒŸ¬8Ëí“ö¸-
+Vsquid:S1135ú"2Complete the task associated to this TODO comment.(àšôßùÿÿÿÿ8Ëí“ö¸-
+vsquid:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Õ¯øùÿÿÿÿ8Ëí“ö¸-
+bsquid:S1155ö">Use isEmpty() to check whether the collection is empty or not.(©ùÅ®ûÿÿÿÿ8Ëí“ö¸-
+Ssquid:S2864õ"4Iterate over the "entrySet" instead of the "keySet".(£ú‰Ê8Ëí“ö¸-
+`squid:S1854ü"<Remove this useless assignment to local variable "prevDate".(çÖºÄüÿÿÿÿ8Í§«ó¸-
+Psquid:S1612ö",Replace this lambda with a method reference.(ÎÃ½ğüÿÿÿÿ8Ëí“ö¸-
+msquid:S3824ú"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ÑšœÁ8Ëí“ö¸-
+W
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(ÚØïË8Ëí“ö¸-
+Msquid:S1172¼")Remove this unused method parameter "ip".( ´Û¥şÿÿÿÿ8Ëí“ö¸-
+qsquid:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 77 to the 15 allowed.(÷İœ™8Ëí“ö¸-
+]squid:S1155’">Use isEmpty() to check whether the collection is empty or not.(ø¡£â8Ëí“ö¸-
+]squid:S1155Â">Use isEmpty() to check whether the collection is empty or not.(úª©™8Ëí“ö¸-
+]squid:S00107ø"=Method has 19 parameters, which is greater than 7 authorized.(µà¸í8Ëí“ö¸-
+wsquid:S3776İ
+"SRefactor this method to reduce its Cognitive Complexity from 360 to the 15 allowed.(ûÙ•¨ûÿÿÿÿ8Ëí“ö¸-
+Xsquid:S2864ï"4Iterate over the "entrySet" instead of the "keySet".(ËòŒ¼ÿÿÿÿÿ8Ëí“ö¸-
+’squid:S1319¾"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(ÿÄÅ8Ëí“ö¸-
+Isquid:S00108‹")Either remove or fill this block of code.(”ı¾8Ëí“ö¸-
+Wsquid:S1854ı"8Remove this useless assignment to local variable "rows".(›‰Í…8Ëí“ö¸-
+Jsquid:S1172¦"&Remove these unused method parameters.(²ºç«üÿÿÿÿ8Ëí“ö¸-
+^squid:S1172ú":Remove this unused method parameter "isAccountMgrRelated".(Õ¯øùÿÿÿÿ8Ëí“ö¸-
+|
+squid:S135Ç"YReduce the total number of break and continue statements in this loop to use at most one.(ÙÌçÙùÿÿÿÿ8Ëí“ö¸-
+\squid:S00107 "<Method has 9 parameters, which is greater than 7 authorized.(¯à“‹8Ëí“ö¸-
+Ksquid:S1602Š",Remove useless curly braces around statement(ãæèÙ8Ëí“ö¸-
+Ssquid:S1066‚"/Merge this if statement with the enclosing one.(ü«Âƒüÿÿÿÿ8Ëí“ö¸-
+qsquid:S1871¾"MThis branch's code block is the same as the block for the branch on line 956.(¼ı·šùÿÿÿÿ8Í§«ó¸-
+”squid:S1319Ö"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(•¯Şıÿÿÿÿ8Ëí“ö¸-
+Isquid:S00108Ï")Either remove or fill this block of code.(”ı¾8Ëí“ö¸-
+Œsquid:S1319ë"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(ıñìŞ8Ëí“ö¸-
+vsquid:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 86 to the 15 allowed.(í¢ºúÿÿÿÿ8Ëí“ö¸-
+qsquid:S3776†"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(×¾Ë8Ëí“ö¸-
+Isquid:S00108…")Either remove or fill this block of code.(”ı¾8Ëí“ö¸-
+Gsquid:S1604Ì"(Make this anonymous inner class a lambda(¸ßıÈ8Ëí“ö¸-
+Qsquid:UselessParenthesesCheckÀ"!Remove these useless parentheses.(Ô»Îv8Í§«ó¸-
+Tsquid:S1751¬"5Remove this "break" statement or make it conditional.(›ûä·8Ëí“ö¸-
+bsquid:S1155ª">Use isEmpty() to check whether the collection is empty or not.(Íğ÷—ûÿÿÿÿ8Ëí“ö¸-
+—squid:S1319ğ"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(¡Ö»¨ùÿÿÿÿ8Ëí“ö¸-
+~squid:S1192"ZDefine a constant instead of duplicating this literal "ConnectCustomReportPreset" 3 times.(õ¼¡¼úÿÿÿÿ8Ëí“ö¸-
+Nsquid:S1066Æ"/Merge this if statement with the enclosing one.(ç€É8Ëí“ö¸-
+vsquid:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(›ƒüöüÿÿÿÿ8Ëí“ö¸-
+Jsquid:S1659£"&Declare "sortTime" on a separate line.(Õû§¯ıÿÿÿÿ8Ëí“ö¸-
+Isquid:S00108ó")Either remove or fill this block of code.(”ı¾8Ëí“ö¸-
+vsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.(×ª’”ÿÿÿÿÿ8Ëí“ö¸-
+]squid:S1155¤">Use isEmpty() to check whether the collection is empty or not.(Êµó‹8Ëí“ö¸-
+\squid:S00107Š"<Method has 8 parameters, which is greater than 7 authorized.(Ë‹§‹8Ëí“ö¸-
+|
+squid:S135ß"YReduce the total number of break and continue statements in this loop to use at most one.(â¬™©ùÿÿÿÿ8Ëí“ö¸-
+Ksquid:S1602˜",Remove useless curly braces around statement(ãæèÙ8Ëí“ö¸-
+wsquid:S3776ğ"SRefactor this method to reduce its Cognitive Complexity from 537 to the 15 allowed.(¡Ö»¨ùÿÿÿÿ8Ëí“ö¸-
+Esquid:S1172ñ"&Remove these unused method parameters.(Ïñ¨8Ëí“ö¸-
+Isquid:S00108¬")Either remove or fill this block of code.(”ı¾8Ëí“ö¸-
+Tsquid:S1854û"5Remove this useless assignment to local variable "i".(Ş¼Ş¢8Í§«ó¸-
+\squid:S1155”">Use isEmpty() to check whether the collection is empty or not.(™ó¶Y8Ëí“ö¸-
+—squid:S1319"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(×ª’”ÿÿÿÿÿ8Ëí“ö¸-
+Isquid:S00108½")Either remove or fill this block of code.(”ı¾8Ëí“ö¸-
+msquid:S1192‘"IDefine a constant instead of duplicating this literal "TSUpdate" 3 times.(²Ş©óúÿÿÿÿ8Ëí“ö¸-
+Tsquid:S1751ª"5Remove this "break" statement or make it conditional.(›ûä·8Ëí“ö¸-
+‹squid:S1319ï"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(ˆıµ38Ëí“ö¸-
+Csquid:S1640³"Convert this Map to an EnumMap.(ä´úÿÿÿÿ8Ëí“ö¸-
+Isquid:S1181¯"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8Ëí“ö¸-
+Ysquid:S1854ë"5Remove this useless assignment to local variable "c".(Ô“Îìşÿÿÿÿ8Ëí“ö¸-
+usquid:S1192§	"QDefine a constant instead of duplicating this literal "yyyy-MM-dd HH:mm" 4 times.(Ïí’½úÿÿÿÿ8Ëí“ö¸-
+rsquid:S1871³	"NThis branch's code block is the same as the block for the branch on line 1201.(ŠØ“æúÿÿÿÿ8Í§«ó¸-
+Ssquid:S1066Ÿ"/Merge this if statement with the enclosing one.(Ğ•Æöşÿÿÿÿ8Ëí“ö¸-
+Ssquid:S1066"/Merge this if statement with the enclosing one.(ÊÛÇüÿÿÿÿ8Ëí“ö¸-
+bsquid:S00107İ
+"=Method has 21 parameters, which is greater than 7 authorized.(ûÙ•¨ûÿÿÿÿ8Ëí“ö¸-
+Nsquid:S1066ÿ"/Merge this if statement with the enclosing one.(·²»¹8Ëí“ö¸-
+—squid:S1319Ø"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(¨ëøÿÿÿÿ8Ëí“ö¸-
+Esquid:S1860ˆ"&Synchronize on a new "Object" instead.(í“Š8Ëí“ö¸-
+Isquid:S00108¡")Either remove or fill this block of code.(”ı¾8Ëí“ö¸-
+asquid:S00107ó"<Method has 8 parameters, which is greater than 7 authorized.(’ó÷âÿÿÿÿÿ8Ëí“ö¸-
+vsquid:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 71 to the 15 allowed.( ´Û¥şÿÿÿÿ8Ëí“ö¸-
+Ssquid:S1066ø"/Merge this if statement with the enclosing one.(¯„—úÿÿÿÿ8Ëí“ö¸-
+Nsquid:S1066Ï"/Merge this if statement with the enclosing one.(·²»¹8Ëí“ö¸-
+Msquid:S1659£")Declare "removalTime" on a separate line.(Õû§¯ıÿÿÿÿ8Ëí“ö¸-
+Wsquid:S1172±"3Remove this unused method parameter "resolutionId".(úÅùÿÿÿÿ8Ëí“ö¸-
+Isquid:S1181­"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8Ëí“ö¸-
+]squid:S1155­">Use isEmpty() to check whether the collection is empty or not.(ãğòâ8Ëí“ö¸-
+Lsquid:S1604–"(Make this anonymous inner class a lambda(Ã®Áøÿÿÿÿ8Ëí“ö¸-
+qsquid:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 88 to the 15 allowed.(Ó˜óõ8Ëí“ö¸-
+Gsquid:S1148Ş"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ëí“ö¸-
+Esquid:S1860¯"&Synchronize on a new "Object" instead.(í“Š8Ëí“ö¸-
+vsquid:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(Î•àâÿÿÿÿÿ8Ëí“ö¸-
+Isquid:S00108Ú")Either remove or fill this block of code.(”ı¾8Ëí“ö¸-
+Fsquid:S1604×"(Make this anonymous inner class a lambda(—Ëÿ=8Ëí“ö¸-
+Wsquid:S1172Ñ
+"3Remove this unused method parameter "prefixGroups".(ĞÑ¹Ûüÿÿÿÿ8Ëí“ö¸-
+qsquid:S3776ù	"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÄÚ•ı8Ëí“ö¸-
+Isquid:S00108“")Either remove or fill this block of code.(”ı¾8Ëí“ö¸-
+Xsquid:S2864ø"4Iterate over the "entrySet" instead of the "keySet".(¶œ·¦üÿÿÿÿ8Ëí“ö¸-
+Nsquid:S1066Ù"/Merge this if statement with the enclosing one.(öõ’²8Ëí“ö¸-
+Ssquid:S1066·"/Merge this if statement with the enclosing one.(®ÄŠÒùÿÿÿÿ8Ëí“ö¸-
+Vsquid:S1135ò"2Complete the task associated to this TODO comment.(ÿ¢›’ûÿÿÿÿ8Ëí“ö¸-
+rsquid:S3776 "SRefactor this method to reduce its Cognitive Complexity from 138 to the 15 allowed.(¯à“‹8Ëí“ö¸-
+Lsquid:S1604Æ
+"(Make this anonymous inner class a lambda(×®öúÿÿÿÿ8Ëí“ö¸-
+Isquid:S00108ğ")Either remove or fill this block of code.(”ı¾8Ëí“ö¸-
+squid:S1319Š"jThe type of the "to" object should be an interface such as "Set" rather than the implementation "HashSet".(”ñ‚Îøÿÿÿÿ8Ëí“ö¸-
+Csquid:S1640Š"Convert this Map to an EnumMap.(ÆÎ¡Ãÿÿÿÿÿ8Ëí“ö¸-
+Tsquid:S1751Ò"5Remove this "break" statement or make it conditional.(›ûä·8Ëí“ö¸-
+osquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.(¹úÌïøÿÿÿÿ8Ëí“ö¸-
+Xsquid:S1854û"9Remove this useless assignment to local variable "start".(ŸşõÊ8Ëí“ö¸-
+Xsquid:S2864Ş"4Iterate over the "entrySet" instead of the "keySet".(ìÃ¶›ûÿÿÿÿ8Ëí“ö¸-
+qsquid:S3776£"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(‰‡³8Ëí“ö¸-
+bsquid:S00107Š"=Method has 11 parameters, which is greater than 7 authorized.(”ñ‚Îøÿÿÿÿ8Ëí“ö¸-
+Ssquid:S1066”"/Merge this if statement with the enclosing one.(×«ìùÿÿÿÿ8Ëí“ö¸-
+’squid:S1319ï"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(éé“Ù8Ëí“ö¸-
+isquid:S1905µ"JRemove this unnecessary cast to "TrafficAndProfitabilityWidgetParameters".(úê£ğ8Ëí“ö¸-
+=squid:S2153Ş"Remove the unboxing of "crid".(¸È8Ëí“ö¸-
+Isquid:S00108ß")Either remove or fill this block of code.(”ı¾8Ëí“ö¸-
+Gsquid:S1604¾"(Make this anonymous inner class a lambda(öûÌ‰8Ëí“ö¸-
+Ssquid:S1066 "/Merge this if statement with the enclosing one.(İôÅúÿÿÿÿ8Ëí“ö¸-
+qsquid:S3776¬	"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Ú’é÷8Ëí“ö¸-
+Isquid:S00108‹")Either remove or fill this block of code.(”ı¾8Ëí“ö¸-
+osquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(Ÿİ¡óùÿÿÿÿ8Ëí“ö¸-

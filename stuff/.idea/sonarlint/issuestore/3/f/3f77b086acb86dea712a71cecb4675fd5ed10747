@@ -1,0 +1,16 @@
+
+Usquid:S1659)"7Declare "isRoutingExceptionsLoaded" on a separate line.(ì´ÊË8«”×›¹-
+”squid:S1319y"vThe type of the "dealTargets" object should be an interface such as "List" rather than the implementation "ArrayList".(ÿúÓÙ8«”×›¹-
+Hsquid:S11721"*Remove this unused method parameter "cid".(Îâ¼ê8«”×›¹-
+`squid:UnusedPrivateMethod1"4Remove this unused private "PrefixTree" constructor.(Îâ¼ê8«”×›¹-
+¡squid:S1319É"The type of the "incomingMappingDebugCcids" object should be an interface such as "Set" rather than the implementation "HashSet".(†±Î¼8«”×›¹-
+Hsquid:S2157"%Add a "clone()" method to this class.(ş«‰Ãıÿÿÿÿ8«”×›¹-
+Lsquid:S1659)".Declare "isMappedIncoming" on a separate line.(ì´ÊË8«”×›¹-
+Psquid:S1135%"2Complete the task associated to this TODO comment.(’°Šß8«”×›¹-
+squid:S1319I"mThe type of the "ccids" object should be an interface such as "Set" rather than the implementation "HashSet".(¼‘¸Âøÿÿÿÿ8«”×›¹-
+squid:S1319E"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(Ç«‰½ùÿÿÿÿ8«”×›¹-
+squid:S1319u"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(§¢©Ö8«”×›¹-
+Jsquid:S1659)",Declare "isVolumeLoaded" on a separate line.(ì´ÊË8«”×›¹-
+‘squid:S1319Å"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(€³–ÿÿÿÿÿ8«”×›¹-
+Msquid:S1659)"/Declare "isDealRatesLoaded" on a separate line.(ì´ÊË8«”×›¹-
+Csquid:S1659)"%Declare "isValid" on a separate line.(ì´ÊË8«”×›¹-

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+		"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+		"classpath://org/hibernate/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+	<session-factory>
+
+		<!--
+		This property makes Hibernate generate the appropriate SQL for the chosen database
+		org.hibernate.dialect.Oracle10gDialect
+		org.hibernate.dialect.MySQLDialect
+		org.hibernate.dialect.PostgreSQLDialect
+		-->
+		<property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
+		<!--
+		The JDBC driver class
+		oracle.jdbc.driver.OracleDriver
+		com.mysql.jdbc.Driver
+		org.postgresql.Driver
+		-->
+		<property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
+		<!--
+		The JDBC URL to the database instance
+		jdbc:oracle:thin:@10.35.36.116:1521/TELE
+		jdbc:mysql://127.0.0.1/test
+		jdbc:postgresql://127.0.0.1:5432/test		-->
+		<property name="hibernate.connection.url">jdbc:postgresql://127.0.0.1:5432/test</property>
+		<!--The database username-->
+		<property name="hibernate.connection.username">postgres</property>
+		<!--The database password-->
+		<property name="hibernate.connection.password">postgres</property>
+
+		<!--Limits the number of connections waiting in the Hibernate database connection pool-->
+		<property name="connection.pool_size">100</property>
+
+		<!--Allows auto-commit mode to be used for the JDBC connection-->
+		<property name="hibernate.connection.autocommit">true</property>
+
+		<!-- Enable Hibernate's automatic session context management -->
+		<property name="current_session_context_class">thread</property>
+
+		<!-- Disable the second-level cache  -->
+		<!--<property name="cache.provider_class">org.hibernate.cache.internal.NoCachingRegionFactory</property>-->
+
+		<!-- Echo all executed SQL to stdout -->
+		<property name="show_sql">true</property>
+		<property name="hibernate.format_sql">false</property>
+
+		<!-- Drop and re-create the database schema on startup -->
+		<!--<property name="hbm2ddl.auto">create</property>-->
+
+		<!-- List of XML mapping files -->
+		<mapping resource="Employee.hbm.xml"/>
+	</session-factory>
+</hibernate-configuration>
